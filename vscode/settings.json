@@ -1,0 +1,22 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "go.toolsManagement.autoUpdate": true,
+    "vim.insertModeKeyBindings": [
+        {
+          "before": ["j", "k"],
+          "after": ["<Esc>"]
+        }
+      ],
+    "vim.commandLineModeKeyBindings": [
+    
+    ],
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "window.zoomLevel": 1,
+    "vim.camelCaseMotion.enable": true,
+    "vim.visualModeKeyBindings": [
+      
+    ]
+}
